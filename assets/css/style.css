@@ -5,6 +5,9 @@ html {
   font-size: 62.5%;
 }
 body {
-  font-size: 1.6rem;
   font-family: "Sora", sans-serif;
+}
+h1 {
+  background-color: red;
+  text-decoration: line-through;
 }
