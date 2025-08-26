@@ -10,3 +10,16 @@ body {
 h1 {
   background-color: red;
 }
+/* =============================header======================= */
+header {
+  width: 100%;
+}
+.header-space {
+  width: 1440px;
+  padding: 0 135px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header-content {
+  width: 100%;
+}
